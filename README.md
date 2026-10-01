@@ -12,7 +12,7 @@ services.
 | Project | What it shows |
 |---|---|
 | [**loan-review-agents**](https://github.com/gopipamulapati/loan-review-agents) | Multi-agent mortgage pre-review with **LangGraph**: LLM extraction with schema validation, parallel policy and risk agents, a decision-lock guardrail, FastAPI, Docker, CI, OpenAI / AWS Bedrock |
-| [**rag-engineer-portfolio**](https://github.com/gopipamulapati/rag-engineer-portfolio) | Hybrid retrieval (BM25 + dense + RRF + cross-encoder reranking) with Hit Rate / MRR evaluation, and a ReAct-style agentic multi-document RAG |
+| [**rag-engineer-portfolio**](https://github.com/gopipamulapati/rag-engineer-portfolio) | Three RAG projects: hybrid retrieval (BM25 + dense + RRF + cross-encoder reranking) with Hit Rate / MRR evaluation, a ReAct-style agentic multi-document RAG, and [conversational RAG with memory](https://github.com/gopipamulapati/rag-engineer-portfolio/tree/main/conversational-rag-langgraph) on LangGraph (session memory, grounding self-check, streaming) |
 
 ## Tech I work with
 
