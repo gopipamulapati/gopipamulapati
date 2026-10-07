@@ -39,3 +39,9 @@ services.
 ## GitHub stats
 
 ![Gopi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopipamulapati&show_icons=true&theme=default)
+
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopi-pamulapati/)
+
+Open to Gen AI / LLM engineering roles. Feel free to reach out on LinkedIn.
